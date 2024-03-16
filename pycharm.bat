@@ -10,5 +10,5 @@ if %ERRORLEVEL%==0 (
     taskkill /f /im %closing%
 )
 
-cd C:\Users\Дети повелителя\AppData\Local\Programs\PyCharm Community\bin
+cd C:\Program Files\JetBrains\PyCharm 2023.3.4\bin
 start .\%opening%
